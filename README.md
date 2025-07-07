@@ -20,15 +20,22 @@ Enables public awareness and accountability.
 
 numpy
 pandas
+
 matplotlib
+
 joblib
+
 seaborn 
+
 streamlit 
+
 scikit-learn
 
 **Steps involved:**
 
 
 1.Data preparation
+
 2.Data exploration
+
 3.Model building and Prediction
