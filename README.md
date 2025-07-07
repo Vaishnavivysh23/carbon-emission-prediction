@@ -18,19 +18,19 @@ Enables public awareness and accountability.
 **Libraries used:**
 
 
-numpy
+1.numpy
 
-pandas
+2.pandas
 
-matplotlib
+3.matplotlib
 
-joblib
+4.joblib
 
-seaborn 
+5.seaborn 
 
-streamlit 
+6.streamlit 
 
-scikit-learn
+7.scikit-learn
 
 **Steps involved:**
 
