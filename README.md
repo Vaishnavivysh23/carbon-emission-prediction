@@ -15,7 +15,7 @@ Assists in climate risk assessment.
 Drives green technology adoption.
 Enables public awareness and accountability.
 
-#Libraries used:
+**Libraries used:**
 
 
 numpy
@@ -32,7 +32,7 @@ streamlit
 
 scikit-learn
 
-#Steps involved:
+**Steps involved:**
 
 
 1.Data preparation
