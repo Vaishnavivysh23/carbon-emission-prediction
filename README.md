@@ -15,8 +15,9 @@ Assists in climate risk assessment.
 Drives green technology adoption.
 Enables public awareness and accountability.
 
+**Libraries used:**
 
-**#Libraries used:**
+
 numpy
 pandas
 matplotlib
@@ -25,8 +26,9 @@ seaborn
 streamlit 
 scikit-learn
 
+**Steps involved:**
 
-**#Steps involved:**
+
 1.Data preparation
 2.Data exploration
 3.Model building and Prediction
